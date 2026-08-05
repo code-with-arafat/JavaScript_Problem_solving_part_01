@@ -14,6 +14,11 @@ function totalShoppingCost(shirtQuantity,pantQuantity,shoeQuantity){
         const finalPrice = totalCost - discount10
         console.log(`Discount Applied:${discount10} Taka`)
         return finalPrice
+    }else if(totalCost > 5000){
+        const discount15 = totalCost * (15 / 100)
+        const finalPrice = totalCost - discount15
+        console.log(`Discount Applied:${discount15} Taka`)
+        return finalPrice
     }else{
         console.log("If you need to get 10% discount then buy upto 3000 taka's product")
     }
