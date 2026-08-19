@@ -26,10 +26,10 @@ Here is a quick summary of the problems solved in this repository:
 
 2. Navigate to the project folder: </br>
    Bash </br>
-   cd repository-name </br> </br>
+   cd repository-name </br>
    
-4. Run any problem file using Node.js:
-   Bash
+4. Run any problem file using Node.js: </br>
+   Bash </br>
    node problem10.js
 
 
