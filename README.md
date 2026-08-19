@@ -24,13 +24,13 @@ Here is a quick summary of the problems solved in this repository:
    ```bash
    git clone [https://github.com/code-with-arafat/](https://github.com/code-with-arafat/) repository-name.git
 
-2. Navigate to the project folder:
-    Bash
-    cd repository-name
+2. Navigate to the project folder: </br>
+   Bash </br>
+   cd repository-name </br> </br>
    
 4. Run any problem file using Node.js:
-  Bash
-  node problem10.js
+   Bash
+   node problem10.js
 
 
 🚀 Key Topics Covered
